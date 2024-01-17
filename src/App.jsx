@@ -1,4 +1,3 @@
-import React from "react";
 import "./App.css";
 import StudentTable from "./Components/StudentTable";
 import DrawerComponent from "./Components/DrawerComponent";
