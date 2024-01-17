@@ -1,0 +1,26 @@
+.flex-container {
+  display: flex;
+}
+
+.drawer {
+  flex: 0.7; /* Adjust the value as needed for the desired width */
+  padding: 20px;
+}
+
+.content {
+  flex: 4; /* Adjust the value as needed for the desired width */
+  padding: 20px;
+}
+.add-button {
+  background-color: rgb(44 164 216);
+  color: aliceblue;
+  border: none;
+  border-radius: 50px;
+  width: 90px;
+  margin-top: 25px;
+  height: 50px;
+}
+.heading {
+  display: flex;
+  justify-content: space-between;
+}
